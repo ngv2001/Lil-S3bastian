@@ -1,0 +1,2 @@
+# Lil-S3bastian
+Up in horsey heaven, here's the thing You trade your legs for angels wings And once we’ve all said good-bye You take a running leap and you learn to fly   Bye Bye Li'l Sebastian Miss you in the saddest fashion Bye Bye Li'l Sebastian You’re 5000 candles in the wind  And though we all miss you everyday We know you're up there eating heaven's hay And here's the part that hurts the most Humans cannot ride a ghost  Bye Bye Li'l Sebastian Miss you in the saddest fashion Bye Bye Li'l Sebastian You’re 5000 candles in the wind
