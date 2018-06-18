@@ -19,10 +19,9 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        // example: 
-        collectable.create(type.fozzy, 200, 170, 6, 0.7);
-        collectable.create(type.melanie, 100, 600, 6, 0.7);
-        collectable.create(type.bruce, 50, 400, 6, 0.7);
+        cannon.create.onTop(450);
+        cannon.create.onRight(450);
+        cannon.create.onLeft(450);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
