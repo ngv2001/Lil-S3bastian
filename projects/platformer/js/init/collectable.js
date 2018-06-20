@@ -5,11 +5,11 @@
     let collectable = window.opspark.collectable;
     
     let type = {
-        db: {assetKey: 'db', points: 10},
-        max: {assetKey: 'max', points: 20},
-        steve: {assetKey: 'steve', points: 30},
-        grace: {assetKey: 'grace', points: 40},
-        kennedi: {assetKey: 'kennedi', points: 50}
+        db: {assetKey: 'db', points: 1},
+        max: {assetKey: 'max', points: 42},
+        steve: {assetKey: 'steve', points: 101},
+        grace: {assetKey: 'grace', points: 69},
+        kennedi: {assetKey: 'kennedi', points: 420}
     };
     
     /**
